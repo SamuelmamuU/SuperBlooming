@@ -1,0 +1,3 @@
+[console_scripts]
+ee = ee:main
+
